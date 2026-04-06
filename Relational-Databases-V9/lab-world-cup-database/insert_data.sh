@@ -1,4 +1,5 @@
 #! /bin/bash
+# Autor: Carlos Mendez Coellar
 
 if [[ $1 == "test" ]]
 then
