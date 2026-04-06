@@ -1,4 +1,5 @@
 #!/bin/bash
+# Autor: Carlos Mendez Coellar
 
 PSQL="psql -X -U freecodecamp -d salon -tA -c"
 echo -e "\n\~~~~~ MY SALON ~~~~~n"
