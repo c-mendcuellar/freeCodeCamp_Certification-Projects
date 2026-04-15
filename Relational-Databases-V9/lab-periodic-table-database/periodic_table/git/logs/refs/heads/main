@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 c-mendcuellar <ca32002@gmail.com> 1776188808 -0400	branch: Created from master
+4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 9f3613320e3e3bc68b51717a94d43e5a11d11cd7 c-mendcuellar <ca32002@gmail.com> 1776190108 -0400	merge feat/input-processing: Fast-forward
+9f3613320e3e3bc68b51717a94d43e5a11d11cd7 8fcb988e0599e4bd333521f359610a7c085fddb1 c-mendcuellar <ca32002@gmail.com> 1776216525 -0400	merge feat/input-processing: Fast-forward
+8fcb988e0599e4bd333521f359610a7c085fddb1 aa7be23c815a04d1a3d50258c08537c2cac1183a c-mendcuellar <ca32002@gmail.com> 1776223398 -0400	merge fix/psql-command-flags-adjustment: Fast-forward
+aa7be23c815a04d1a3d50258c08537c2cac1183a 52c7be799ecbb221c7bfb36ddec73b8684e76660 c-mendcuellar <ca32002@gmail.com> 1776225015 -0400	merge feat/querying-output-processing: Fast-forward
+52c7be799ecbb221c7bfb36ddec73b8684e76660 81ce2df4ba89d58755ccc05a7e11c2b7c35a535c c-mendcuellar <ca32002@gmail.com> 1776225606 -0400	merge feat/querying-output-processing-and-final-output: Fast-forward
+81ce2df4ba89d58755ccc05a7e11c2b7c35a535c 518ba813a840004a2b64042348edf46f92376331 c-mendcuellar <ca32002@gmail.com> 1776226240 -0400	commit: chore: add author name for elements.sh

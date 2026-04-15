@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 c-mendcuellar <ca32002@gmail.com> 1776188791 -0400	commit (initial): Initial commit
+4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 c-mendcuellar <ca32002@gmail.com> 1776188864 -0400	checkout: moving from master to main
+4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 c-mendcuellar <ca32002@gmail.com> 1776189387 -0400	checkout: moving from main to feat/input-processing
+4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 9f3613320e3e3bc68b51717a94d43e5a11d11cd7 c-mendcuellar <ca32002@gmail.com> 1776190063 -0400	commit: feat: add argument processing to element.sh
+9f3613320e3e3bc68b51717a94d43e5a11d11cd7 4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 c-mendcuellar <ca32002@gmail.com> 1776190079 -0400	checkout: moving from feat/input-processing to main
+4fbafc11f6ce38a0221356c9f268de4eaf6f75a3 9f3613320e3e3bc68b51717a94d43e5a11d11cd7 c-mendcuellar <ca32002@gmail.com> 1776190108 -0400	merge feat/input-processing: Fast-forward
+9f3613320e3e3bc68b51717a94d43e5a11d11cd7 9f3613320e3e3bc68b51717a94d43e5a11d11cd7 c-mendcuellar <ca32002@gmail.com> 1776214694 -0400	checkout: moving from main to feat/query-processing
+9f3613320e3e3bc68b51717a94d43e5a11d11cd7 9f3613320e3e3bc68b51717a94d43e5a11d11cd7 c-mendcuellar <ca32002@gmail.com> 1776214792 -0400	checkout: moving from feat/query-processing to main
+9f3613320e3e3bc68b51717a94d43e5a11d11cd7 9f3613320e3e3bc68b51717a94d43e5a11d11cd7 c-mendcuellar <ca32002@gmail.com> 1776214894 -0400	checkout: moving from main to feat/input-processing
+9f3613320e3e3bc68b51717a94d43e5a11d11cd7 8fcb988e0599e4bd333521f359610a7c085fddb1 c-mendcuellar <ca32002@gmail.com> 1776216504 -0400	commit: feat: add input data type validation
+8fcb988e0599e4bd333521f359610a7c085fddb1 9f3613320e3e3bc68b51717a94d43e5a11d11cd7 c-mendcuellar <ca32002@gmail.com> 1776216509 -0400	checkout: moving from feat/input-processing to main
+9f3613320e3e3bc68b51717a94d43e5a11d11cd7 8fcb988e0599e4bd333521f359610a7c085fddb1 c-mendcuellar <ca32002@gmail.com> 1776216525 -0400	merge feat/input-processing: Fast-forward
+8fcb988e0599e4bd333521f359610a7c085fddb1 8fcb988e0599e4bd333521f359610a7c085fddb1 c-mendcuellar <ca32002@gmail.com> 1776222628 -0400	checkout: moving from main to feat/data-querying
+8fcb988e0599e4bd333521f359610a7c085fddb1 8fcb988e0599e4bd333521f359610a7c085fddb1 c-mendcuellar <ca32002@gmail.com> 1776223120 -0400	checkout: moving from feat/data-querying to main
+8fcb988e0599e4bd333521f359610a7c085fddb1 8fcb988e0599e4bd333521f359610a7c085fddb1 c-mendcuellar <ca32002@gmail.com> 1776223199 -0400	checkout: moving from main to fix/psql-command-flags-adjustment
+8fcb988e0599e4bd333521f359610a7c085fddb1 aa7be23c815a04d1a3d50258c08537c2cac1183a c-mendcuellar <ca32002@gmail.com> 1776223380 -0400	commit: fix: enable unaligned table output mode and read startup file
+aa7be23c815a04d1a3d50258c08537c2cac1183a 8fcb988e0599e4bd333521f359610a7c085fddb1 c-mendcuellar <ca32002@gmail.com> 1776223393 -0400	checkout: moving from fix/psql-command-flags-adjustment to main
+8fcb988e0599e4bd333521f359610a7c085fddb1 aa7be23c815a04d1a3d50258c08537c2cac1183a c-mendcuellar <ca32002@gmail.com> 1776223398 -0400	merge fix/psql-command-flags-adjustment: Fast-forward
+aa7be23c815a04d1a3d50258c08537c2cac1183a aa7be23c815a04d1a3d50258c08537c2cac1183a c-mendcuellar <ca32002@gmail.com> 1776223442 -0400	checkout: moving from main to feat/querying-output-processing
+aa7be23c815a04d1a3d50258c08537c2cac1183a 52c7be799ecbb221c7bfb36ddec73b8684e76660 c-mendcuellar <ca32002@gmail.com> 1776225004 -0400	commit: feat: add querying output logic for continuing or exit
+52c7be799ecbb221c7bfb36ddec73b8684e76660 aa7be23c815a04d1a3d50258c08537c2cac1183a c-mendcuellar <ca32002@gmail.com> 1776225011 -0400	checkout: moving from feat/querying-output-processing to main
+aa7be23c815a04d1a3d50258c08537c2cac1183a 52c7be799ecbb221c7bfb36ddec73b8684e76660 c-mendcuellar <ca32002@gmail.com> 1776225015 -0400	merge feat/querying-output-processing: Fast-forward
+52c7be799ecbb221c7bfb36ddec73b8684e76660 52c7be799ecbb221c7bfb36ddec73b8684e76660 c-mendcuellar <ca32002@gmail.com> 1776225090 -0400	checkout: moving from main to feat/querying-output-processing-and-final-output
+52c7be799ecbb221c7bfb36ddec73b8684e76660 81ce2df4ba89d58755ccc05a7e11c2b7c35a535c c-mendcuellar <ca32002@gmail.com> 1776225596 -0400	commit: feat: add querying output processing and final formatted output
+81ce2df4ba89d58755ccc05a7e11c2b7c35a535c 52c7be799ecbb221c7bfb36ddec73b8684e76660 c-mendcuellar <ca32002@gmail.com> 1776225602 -0400	checkout: moving from feat/querying-output-processing-and-final-output to main
+52c7be799ecbb221c7bfb36ddec73b8684e76660 81ce2df4ba89d58755ccc05a7e11c2b7c35a535c c-mendcuellar <ca32002@gmail.com> 1776225606 -0400	merge feat/querying-output-processing-and-final-output: Fast-forward
+81ce2df4ba89d58755ccc05a7e11c2b7c35a535c 518ba813a840004a2b64042348edf46f92376331 c-mendcuellar <ca32002@gmail.com> 1776226240 -0400	commit: chore: add author name for elements.sh
