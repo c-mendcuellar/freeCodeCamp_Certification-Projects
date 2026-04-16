@@ -1,0 +1,38 @@
+0000000000000000000000000000000000000000 41926c19799bccbf8955dac7e4d35b0a25ec758c c-mendcuellar <ca32002@gmail.com> 1776276349 -0400	commit (initial): Initial commit
+41926c19799bccbf8955dac7e4d35b0a25ec758c 41926c19799bccbf8955dac7e4d35b0a25ec758c c-mendcuellar <ca32002@gmail.com> 1776276367 -0400	checkout: moving from master to main
+41926c19799bccbf8955dac7e4d35b0a25ec758c 41926c19799bccbf8955dac7e4d35b0a25ec758c c-mendcuellar <ca32002@gmail.com> 1776276557 -0400	checkout: moving from main to feat/user-verification
+41926c19799bccbf8955dac7e4d35b0a25ec758c 41926c19799bccbf8955dac7e4d35b0a25ec758c c-mendcuellar <ca32002@gmail.com> 1776276645 -0400	checkout: moving from feat/user-verification to main
+41926c19799bccbf8955dac7e4d35b0a25ec758c 41926c19799bccbf8955dac7e4d35b0a25ec758c c-mendcuellar <ca32002@gmail.com> 1776276680 -0400	checkout: moving from main to main
+41926c19799bccbf8955dac7e4d35b0a25ec758c 41926c19799bccbf8955dac7e4d35b0a25ec758c c-mendcuellar <ca32002@gmail.com> 1776276723 -0400	checkout: moving from main to feat/read-username
+41926c19799bccbf8955dac7e4d35b0a25ec758c 6e416414b4cb37c40f9cd5d21509a604d3f69b4b c-mendcuellar <ca32002@gmail.com> 1776276947 -0400	commit: feat: add username input
+6e416414b4cb37c40f9cd5d21509a604d3f69b4b 41926c19799bccbf8955dac7e4d35b0a25ec758c c-mendcuellar <ca32002@gmail.com> 1776276952 -0400	checkout: moving from feat/read-username to main
+41926c19799bccbf8955dac7e4d35b0a25ec758c 6e416414b4cb37c40f9cd5d21509a604d3f69b4b c-mendcuellar <ca32002@gmail.com> 1776276957 -0400	merge feat/read-username: Fast-forward
+6e416414b4cb37c40f9cd5d21509a604d3f69b4b 6e416414b4cb37c40f9cd5d21509a604d3f69b4b c-mendcuellar <ca32002@gmail.com> 1776276986 -0400	checkout: moving from main to feat/username-query
+6e416414b4cb37c40f9cd5d21509a604d3f69b4b ef97753d54f5b6ee4ff2f5558a675394f3f7faac c-mendcuellar <ca32002@gmail.com> 1776278147 -0400	commit: feat: query logic to check user existence
+ef97753d54f5b6ee4ff2f5558a675394f3f7faac 6e416414b4cb37c40f9cd5d21509a604d3f69b4b c-mendcuellar <ca32002@gmail.com> 1776278156 -0400	checkout: moving from feat/username-query to main
+6e416414b4cb37c40f9cd5d21509a604d3f69b4b ef97753d54f5b6ee4ff2f5558a675394f3f7faac c-mendcuellar <ca32002@gmail.com> 1776278183 -0400	merge feat/username-query: Fast-forward
+ef97753d54f5b6ee4ff2f5558a675394f3f7faac ef97753d54f5b6ee4ff2f5558a675394f3f7faac c-mendcuellar <ca32002@gmail.com> 1776278325 -0400	checkout: moving from main to feat/user-info-ouput
+ef97753d54f5b6ee4ff2f5558a675394f3f7faac 48fc1634fe8b610cfd1edf7a14dbb929deebba07 c-mendcuellar <ca32002@gmail.com> 1776297791 -0400	commit: feat: print formatted user info
+48fc1634fe8b610cfd1edf7a14dbb929deebba07 ef97753d54f5b6ee4ff2f5558a675394f3f7faac c-mendcuellar <ca32002@gmail.com> 1776297800 -0400	checkout: moving from feat/user-info-ouput to main
+ef97753d54f5b6ee4ff2f5558a675394f3f7faac 48fc1634fe8b610cfd1edf7a14dbb929deebba07 c-mendcuellar <ca32002@gmail.com> 1776297807 -0400	merge feat/user-info-ouput: Fast-forward
+48fc1634fe8b610cfd1edf7a14dbb929deebba07 48fc1634fe8b610cfd1edf7a14dbb929deebba07 c-mendcuellar <ca32002@gmail.com> 1776297926 -0400	checkout: moving from main to fix/split-specific-queries
+48fc1634fe8b610cfd1edf7a14dbb929deebba07 5ba79a45e3d7ce7edff4651b0535f5d904ced74f c-mendcuellar <ca32002@gmail.com> 1776299302 -0400	commit: fix: remove ambiguous queries to check user existence and info
+5ba79a45e3d7ce7edff4651b0535f5d904ced74f 48fc1634fe8b610cfd1edf7a14dbb929deebba07 c-mendcuellar <ca32002@gmail.com> 1776299309 -0400	checkout: moving from fix/split-specific-queries to main
+48fc1634fe8b610cfd1edf7a14dbb929deebba07 5ba79a45e3d7ce7edff4651b0535f5d904ced74f c-mendcuellar <ca32002@gmail.com> 1776299312 -0400	merge fix/split-specific-queries: Fast-forward
+5ba79a45e3d7ce7edff4651b0535f5d904ced74f 5ba79a45e3d7ce7edff4651b0535f5d904ced74f c-mendcuellar <ca32002@gmail.com> 1776309671 -0400	checkout: moving from main to feat/register-new-user
+5ba79a45e3d7ce7edff4651b0535f5d904ced74f 05567ce65aa72be2558a1c69e96ec9b8800a9340 c-mendcuellar <ca32002@gmail.com> 1776309983 -0400	commit: feat: add register new user capability
+05567ce65aa72be2558a1c69e96ec9b8800a9340 5ba79a45e3d7ce7edff4651b0535f5d904ced74f c-mendcuellar <ca32002@gmail.com> 1776309987 -0400	checkout: moving from feat/register-new-user to main
+5ba79a45e3d7ce7edff4651b0535f5d904ced74f 05567ce65aa72be2558a1c69e96ec9b8800a9340 c-mendcuellar <ca32002@gmail.com> 1776309995 -0400	merge feat/register-new-user: Fast-forward
+05567ce65aa72be2558a1c69e96ec9b8800a9340 05567ce65aa72be2558a1c69e96ec9b8800a9340 c-mendcuellar <ca32002@gmail.com> 1776310093 -0400	checkout: moving from main to feat/guessing-game-function
+05567ce65aa72be2558a1c69e96ec9b8800a9340 9543730ae6cc233d9fea0a796d6038981f4d65ac c-mendcuellar <ca32002@gmail.com> 1776312925 -0400	commit: feat: add function for guessing number game logic
+9543730ae6cc233d9fea0a796d6038981f4d65ac 05567ce65aa72be2558a1c69e96ec9b8800a9340 c-mendcuellar <ca32002@gmail.com> 1776312932 -0400	checkout: moving from feat/guessing-game-function to main
+05567ce65aa72be2558a1c69e96ec9b8800a9340 9543730ae6cc233d9fea0a796d6038981f4d65ac c-mendcuellar <ca32002@gmail.com> 1776312940 -0400	merge feat/guessing-game-function: Fast-forward
+9543730ae6cc233d9fea0a796d6038981f4d65ac 9543730ae6cc233d9fea0a796d6038981f4d65ac c-mendcuellar <ca32002@gmail.com> 1776313006 -0400	checkout: moving from main to feat/register-game-data
+9543730ae6cc233d9fea0a796d6038981f4d65ac a2fb82fce9f93efeee162b08889592c216a68f15 c-mendcuellar <ca32002@gmail.com> 1776313747 -0400	commit: feat: add register game session data capability
+a2fb82fce9f93efeee162b08889592c216a68f15 9543730ae6cc233d9fea0a796d6038981f4d65ac c-mendcuellar <ca32002@gmail.com> 1776313753 -0400	checkout: moving from feat/register-game-data to main
+9543730ae6cc233d9fea0a796d6038981f4d65ac a2fb82fce9f93efeee162b08889592c216a68f15 c-mendcuellar <ca32002@gmail.com> 1776313759 -0400	merge feat/register-game-data: Fast-forward
+a2fb82fce9f93efeee162b08889592c216a68f15 a2fb82fce9f93efeee162b08889592c216a68f15 c-mendcuellar <ca32002@gmail.com> 1776314172 -0400	checkout: moving from main to fix/robustness-in-user-data
+a2fb82fce9f93efeee162b08889592c216a68f15 fe501b199b3533fab4e6ecda91d3f79b9ba7fd93 c-mendcuellar <ca32002@gmail.com> 1776314848 -0400	commit: fix: add new user_id check, change USER_ID_RESULT to USER_ID, check REGISTER_USER_RESULT with grep
+fe501b199b3533fab4e6ecda91d3f79b9ba7fd93 a2fb82fce9f93efeee162b08889592c216a68f15 c-mendcuellar <ca32002@gmail.com> 1776314853 -0400	checkout: moving from fix/robustness-in-user-data to main
+a2fb82fce9f93efeee162b08889592c216a68f15 fe501b199b3533fab4e6ecda91d3f79b9ba7fd93 c-mendcuellar <ca32002@gmail.com> 1776314859 -0400	merge fix/robustness-in-user-data: Fast-forward
+fe501b199b3533fab4e6ecda91d3f79b9ba7fd93 07acf4af417976200dc41d9d5101fa4fc4fc1e31 c-mendcuellar <ca32002@gmail.com> 1776314956 -0400	commit: chore: add program author

@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 41926c19799bccbf8955dac7e4d35b0a25ec758c c-mendcuellar <ca32002@gmail.com> 1776276367 -0400	branch: Created from HEAD
+41926c19799bccbf8955dac7e4d35b0a25ec758c 6e416414b4cb37c40f9cd5d21509a604d3f69b4b c-mendcuellar <ca32002@gmail.com> 1776276957 -0400	merge feat/read-username: Fast-forward
+6e416414b4cb37c40f9cd5d21509a604d3f69b4b ef97753d54f5b6ee4ff2f5558a675394f3f7faac c-mendcuellar <ca32002@gmail.com> 1776278183 -0400	merge feat/username-query: Fast-forward
+ef97753d54f5b6ee4ff2f5558a675394f3f7faac 48fc1634fe8b610cfd1edf7a14dbb929deebba07 c-mendcuellar <ca32002@gmail.com> 1776297807 -0400	merge feat/user-info-ouput: Fast-forward
+48fc1634fe8b610cfd1edf7a14dbb929deebba07 5ba79a45e3d7ce7edff4651b0535f5d904ced74f c-mendcuellar <ca32002@gmail.com> 1776299312 -0400	merge fix/split-specific-queries: Fast-forward
+5ba79a45e3d7ce7edff4651b0535f5d904ced74f 05567ce65aa72be2558a1c69e96ec9b8800a9340 c-mendcuellar <ca32002@gmail.com> 1776309995 -0400	merge feat/register-new-user: Fast-forward
+05567ce65aa72be2558a1c69e96ec9b8800a9340 9543730ae6cc233d9fea0a796d6038981f4d65ac c-mendcuellar <ca32002@gmail.com> 1776312940 -0400	merge feat/guessing-game-function: Fast-forward
+9543730ae6cc233d9fea0a796d6038981f4d65ac a2fb82fce9f93efeee162b08889592c216a68f15 c-mendcuellar <ca32002@gmail.com> 1776313759 -0400	merge feat/register-game-data: Fast-forward
+a2fb82fce9f93efeee162b08889592c216a68f15 fe501b199b3533fab4e6ecda91d3f79b9ba7fd93 c-mendcuellar <ca32002@gmail.com> 1776314859 -0400	merge fix/robustness-in-user-data: Fast-forward
+fe501b199b3533fab4e6ecda91d3f79b9ba7fd93 07acf4af417976200dc41d9d5101fa4fc4fc1e31 c-mendcuellar <ca32002@gmail.com> 1776314956 -0400	commit: chore: add program author
