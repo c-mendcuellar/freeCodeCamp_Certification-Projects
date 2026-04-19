@@ -1,0 +1,131 @@
+0000000000000000000000000000000000000000 a029be197bbd18f51b3ec6647391739d2928415e moT01 <20648924+moT01@users.noreply.github.com> 1631241863 -0500	commit (initial): Initial commit
+a029be197bbd18f51b3ec6647391739d2928415e a5de9441f554604a1418a7ea46d836ea9ca09613 moT01 <20648924+moT01@users.noreply.github.com> 1631242114 -0500	commit: feat: add create database reference
+a5de9441f554604a1418a7ea46d836ea9ca09613 684afe786ecb33e590f7dd03d9d53b6b7770684d moT01 <20648924+moT01@users.noreply.github.com> 1631242265 -0500	commit: feat: add drop database reference
+684afe786ecb33e590f7dd03d9d53b6b7770684d 684afe786ecb33e590f7dd03d9d53b6b7770684d moT01 <20648924+moT01@users.noreply.github.com> 1631242380 -0500	checkout: moving from main to feat/add-create-table-reference
+684afe786ecb33e590f7dd03d9d53b6b7770684d 18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 moT01 <20648924+moT01@users.noreply.github.com> 1631242550 -0500	commit: feat: add create table reference
+18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 684afe786ecb33e590f7dd03d9d53b6b7770684d moT01 <20648924+moT01@users.noreply.github.com> 1631242588 -0500	checkout: moving from feat/add-create-table-reference to main
+684afe786ecb33e590f7dd03d9d53b6b7770684d 18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 moT01 <20648924+moT01@users.noreply.github.com> 1631242637 -0500	merge feat/add-create-table-reference: Fast-forward
+18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 moT01 <20648924+moT01@users.noreply.github.com> 1631242724 -0500	checkout: moving from main to feat/add-drop-table-reference
+18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 0ae0bd456114d57c6587643a47a9e3399d2ad88d moT01 <20648924+moT01@users.noreply.github.com> 1631242829 -0500	commit: feat: add drop table reference
+0ae0bd456114d57c6587643a47a9e3399d2ad88d 18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 moT01 <20648924+moT01@users.noreply.github.com> 1631242849 -0500	checkout: moving from feat/add-drop-table-reference to main
+18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 0ae0bd456114d57c6587643a47a9e3399d2ad88d moT01 <20648924+moT01@users.noreply.github.com> 1631242904 -0500	merge feat/add-drop-table-reference: Fast-forward
+0ae0bd456114d57c6587643a47a9e3399d2ad88d 0ae0bd456114d57c6587643a47a9e3399d2ad88d moT01 <20648924+moT01@users.noreply.github.com> 1631242994 -0500	checkout: moving from main to feat/add-column-references
+0ae0bd456114d57c6587643a47a9e3399d2ad88d e3d4ca9c8e3d96568a3174de9cc889b03e03a5f0 moT01 <20648924+moT01@users.noreply.github.com> 1631243090 -0500	commit: feat: add column reference
+e3d4ca9c8e3d96568a3174de9cc889b03e03a5f0 0ae0bd456114d57c6587643a47a9e3399d2ad88d moT01 <20648924+moT01@users.noreply.github.com> 1631243115 -0500	checkout: moving from feat/add-column-references to main
+0ae0bd456114d57c6587643a47a9e3399d2ad88d 0ae0bd456114d57c6587643a47a9e3399d2ad88d moT01 <20648924+moT01@users.noreply.github.com> 1631243162 -0500	checkout: moving from main to fix/create-table-syntax
+0ae0bd456114d57c6587643a47a9e3399d2ad88d d3609d2b8047c0d7da867b65072151d8eb69484e moT01 <20648924+moT01@users.noreply.github.com> 1631243280 -0500	commit: fix: create table syntax
+d3609d2b8047c0d7da867b65072151d8eb69484e 0ae0bd456114d57c6587643a47a9e3399d2ad88d moT01 <20648924+moT01@users.noreply.github.com> 1631243306 -0500	checkout: moving from fix/create-table-syntax to main
+0ae0bd456114d57c6587643a47a9e3399d2ad88d d3609d2b8047c0d7da867b65072151d8eb69484e moT01 <20648924+moT01@users.noreply.github.com> 1631243331 -0500	merge fix/create-table-syntax: Fast-forward
+d3609d2b8047c0d7da867b65072151d8eb69484e e3d4ca9c8e3d96568a3174de9cc889b03e03a5f0 moT01 <20648924+moT01@users.noreply.github.com> 1631243403 -0500	checkout: moving from main to feat/add-column-references
+e3d4ca9c8e3d96568a3174de9cc889b03e03a5f0 d3609d2b8047c0d7da867b65072151d8eb69484e moT01 <20648924+moT01@users.noreply.github.com> 1631243449 -0500	rebase: checkout main
+d3609d2b8047c0d7da867b65072151d8eb69484e 1719dcc754091294beb150e10575fbd88cf297a6 moT01 <20648924+moT01@users.noreply.github.com> 1631243449 -0500	rebase: feat: add column reference
+1719dcc754091294beb150e10575fbd88cf297a6 1719dcc754091294beb150e10575fbd88cf297a6 moT01 <20648924+moT01@users.noreply.github.com> 1631243449 -0500	rebase finished: returning to refs/heads/feat/add-column-references
+1719dcc754091294beb150e10575fbd88cf297a6 d2ad723e4a7089d1893d021f3eb716ceae282395 moT01 <20648924+moT01@users.noreply.github.com> 1631243565 -0500	commit: feat: add drop column reference
+d2ad723e4a7089d1893d021f3eb716ceae282395 d3609d2b8047c0d7da867b65072151d8eb69484e moT01 <20648924+moT01@users.noreply.github.com> 1631243585 -0500	checkout: moving from feat/add-column-references to main
+d3609d2b8047c0d7da867b65072151d8eb69484e d3609d2b8047c0d7da867b65072151d8eb69484e moT01 <20648924+moT01@users.noreply.github.com> 1631243635 -0500	checkout: moving from main to feat/add-insert-row-reference
+d3609d2b8047c0d7da867b65072151d8eb69484e 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631243707 -0500	commit: feat: add insert row reference
+88989a27ab2087f3aea1515c6f8ab4253f384a34 d3609d2b8047c0d7da867b65072151d8eb69484e moT01 <20648924+moT01@users.noreply.github.com> 1631243734 -0500	checkout: moving from feat/add-insert-row-reference to main
+d3609d2b8047c0d7da867b65072151d8eb69484e 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631243769 -0500	merge feat/add-insert-row-reference: Fast-forward
+88989a27ab2087f3aea1515c6f8ab4253f384a34 d2ad723e4a7089d1893d021f3eb716ceae282395 moT01 <20648924+moT01@users.noreply.github.com> 1631243808 -0500	checkout: moving from main to feat/add-column-references
+d2ad723e4a7089d1893d021f3eb716ceae282395 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631243874 -0500	rebase: checkout main
+88989a27ab2087f3aea1515c6f8ab4253f384a34 a6d541f7cb70526592a1c10bc95ffb1d1b06decc moT01 <20648924+moT01@users.noreply.github.com> 1631244033 -0500	rebase: feat: add column reference
+a6d541f7cb70526592a1c10bc95ffb1d1b06decc ec58b4f826c4067c91688e0ac113925d92fa617b moT01 <20648924+moT01@users.noreply.github.com> 1631244033 -0500	rebase: feat: add drop column reference
+ec58b4f826c4067c91688e0ac113925d92fa617b ec58b4f826c4067c91688e0ac113925d92fa617b moT01 <20648924+moT01@users.noreply.github.com> 1631244033 -0500	rebase finished: returning to refs/heads/feat/add-column-references
+ec58b4f826c4067c91688e0ac113925d92fa617b 458ea01cc9d7cee8608ebab3ef0e357c4671e582 moT01 <20648924+moT01@users.noreply.github.com> 1631244163 -0500	commit: feat: add rename column reference
+458ea01cc9d7cee8608ebab3ef0e357c4671e582 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631244196 -0500	checkout: moving from feat/add-column-references to feat/add-insert-row-reference
+88989a27ab2087f3aea1515c6f8ab4253f384a34 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631244255 -0500	reset: moving to HEAD
+88989a27ab2087f3aea1515c6f8ab4253f384a34 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631244346 -0500	reset: moving to HEAD
+88989a27ab2087f3aea1515c6f8ab4253f384a34 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631244438 -0500	reset: moving to HEAD
+88989a27ab2087f3aea1515c6f8ab4253f384a34 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631244532 -0500	checkout: moving from feat/add-insert-row-reference to main
+88989a27ab2087f3aea1515c6f8ab4253f384a34 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631244610 -0500	checkout: moving from main to feat/add-more-row-references
+88989a27ab2087f3aea1515c6f8ab4253f384a34 a72aceaad172418b6ac8f2e0db44c6e9bc45483e moT01 <20648924+moT01@users.noreply.github.com> 1631244751 -0500	commit: feat: add update row reference
+a72aceaad172418b6ac8f2e0db44c6e9bc45483e 88989a27ab2087f3aea1515c6f8ab4253f384a34 moT01 <20648924+moT01@users.noreply.github.com> 1631244780 -0500	checkout: moving from feat/add-more-row-references to main
+88989a27ab2087f3aea1515c6f8ab4253f384a34 a72aceaad172418b6ac8f2e0db44c6e9bc45483e moT01 <20648924+moT01@users.noreply.github.com> 1631244827 -0500	merge feat/add-more-row-references: Fast-forward
+a72aceaad172418b6ac8f2e0db44c6e9bc45483e 458ea01cc9d7cee8608ebab3ef0e357c4671e582 moT01 <20648924+moT01@users.noreply.github.com> 1631244858 -0500	checkout: moving from main to feat/add-column-references
+458ea01cc9d7cee8608ebab3ef0e357c4671e582 a72aceaad172418b6ac8f2e0db44c6e9bc45483e moT01 <20648924+moT01@users.noreply.github.com> 1631244886 -0500	rebase: checkout main
+a72aceaad172418b6ac8f2e0db44c6e9bc45483e 0e874456c4590a4a7d4c5be9a7cfb2398a20dec2 moT01 <20648924+moT01@users.noreply.github.com> 1631245022 -0500	rebase: feat: add column reference
+0e874456c4590a4a7d4c5be9a7cfb2398a20dec2 c8ba85366e14dd35f45d4901f80baf65c34e0645 moT01 <20648924+moT01@users.noreply.github.com> 1631245022 -0500	rebase: feat: add drop column reference
+c8ba85366e14dd35f45d4901f80baf65c34e0645 fe84ffe3798ee74ceaa4fcaad15e0232cc2da1d5 moT01 <20648924+moT01@users.noreply.github.com> 1631245022 -0500	rebase: feat: add rename column reference
+fe84ffe3798ee74ceaa4fcaad15e0232cc2da1d5 fe84ffe3798ee74ceaa4fcaad15e0232cc2da1d5 moT01 <20648924+moT01@users.noreply.github.com> 1631245022 -0500	rebase finished: returning to refs/heads/feat/add-column-references
+fe84ffe3798ee74ceaa4fcaad15e0232cc2da1d5 d3036f515230bf8683740c499d15c57ed6055bd1 moT01 <20648924+moT01@users.noreply.github.com> 1631245188 -0500	commit: feat: add primary key reference
+d3036f515230bf8683740c499d15c57ed6055bd1 dab77a2b01ed5b3eb45804f36d070495eb55af99 moT01 <20648924+moT01@users.noreply.github.com> 1631245273 -0500	commit: feat: add foreign key reference
+dab77a2b01ed5b3eb45804f36d070495eb55af99 a72aceaad172418b6ac8f2e0db44c6e9bc45483e moT01 <20648924+moT01@users.noreply.github.com> 1631245301 -0500	checkout: moving from feat/add-column-references to feat/add-more-row-references
+a72aceaad172418b6ac8f2e0db44c6e9bc45483e 87db07c94a4273df4de2aa89b756d605f558fc05 moT01 <20648924+moT01@users.noreply.github.com> 1631245397 -0500	commit: feat: add delete row reference
+87db07c94a4273df4de2aa89b756d605f558fc05 a72aceaad172418b6ac8f2e0db44c6e9bc45483e moT01 <20648924+moT01@users.noreply.github.com> 1631245417 -0500	checkout: moving from feat/add-more-row-references to main
+a72aceaad172418b6ac8f2e0db44c6e9bc45483e 87db07c94a4273df4de2aa89b756d605f558fc05 moT01 <20648924+moT01@users.noreply.github.com> 1631245462 -0500	merge feat/add-more-row-references: Fast-forward
+87db07c94a4273df4de2aa89b756d605f558fc05 87db07c94a4273df4de2aa89b756d605f558fc05 moT01 <20648924+moT01@users.noreply.github.com> 1631245544 -0500	checkout: moving from main to fix/add-missing-rename-references
+87db07c94a4273df4de2aa89b756d605f558fc05 a6b1eff098f810034029c762d6411a1ad52be14e moT01 <20648924+moT01@users.noreply.github.com> 1631245641 -0500	commit: fix: add missing rename database reference
+a6b1eff098f810034029c762d6411a1ad52be14e dab77a2b01ed5b3eb45804f36d070495eb55af99 moT01 <20648924+moT01@users.noreply.github.com> 1631245673 -0500	checkout: moving from fix/add-missing-rename-references to feat/add-column-references
+dab77a2b01ed5b3eb45804f36d070495eb55af99 87db07c94a4273df4de2aa89b756d605f558fc05 moT01 <20648924+moT01@users.noreply.github.com> 1631245701 -0500	rebase: checkout main
+87db07c94a4273df4de2aa89b756d605f558fc05 4e3d7443ceec71283844ff69c4d22e38a72a8627 moT01 <20648924+moT01@users.noreply.github.com> 1631245782 -0500	rebase: feat: add column reference
+4e3d7443ceec71283844ff69c4d22e38a72a8627 bee4c3e282aa35cc03e30be21b0d9386fe8110a1 moT01 <20648924+moT01@users.noreply.github.com> 1631245782 -0500	rebase: feat: add drop column reference
+bee4c3e282aa35cc03e30be21b0d9386fe8110a1 2e8f5b438d445c8612189a3e0f1e58bf7716919c moT01 <20648924+moT01@users.noreply.github.com> 1631245782 -0500	rebase: feat: add rename column reference
+2e8f5b438d445c8612189a3e0f1e58bf7716919c b0a93b6eb229138574247abd4b0f31c9fdeeb0c2 moT01 <20648924+moT01@users.noreply.github.com> 1631245782 -0500	rebase: feat: add primary key reference
+b0a93b6eb229138574247abd4b0f31c9fdeeb0c2 1e3a1786b845fef00b384d3ad34bf877940e0430 moT01 <20648924+moT01@users.noreply.github.com> 1631245782 -0500	rebase: feat: add foreign key reference
+1e3a1786b845fef00b384d3ad34bf877940e0430 1e3a1786b845fef00b384d3ad34bf877940e0430 moT01 <20648924+moT01@users.noreply.github.com> 1631245782 -0500	rebase finished: returning to refs/heads/feat/add-column-references
+1e3a1786b845fef00b384d3ad34bf877940e0430 04fc4874789d34426c9bd6929e642c9a36e279e8 moT01 <20648924+moT01@users.noreply.github.com> 1631245887 -0500	commit: feat: add unique reference
+04fc4874789d34426c9bd6929e642c9a36e279e8 1e3a1786b845fef00b384d3ad34bf877940e0430 moT01 <20648924+moT01@users.noreply.github.com> 1631245924 -0500	reset: moving to HEAD~1
+1e3a1786b845fef00b384d3ad34bf877940e0430 7f4443692a682f14c68f524c4600a67e2318e908 moT01 <20648924+moT01@users.noreply.github.com> 1631246028 -0500	commit: feat: add unique reference
+7f4443692a682f14c68f524c4600a67e2318e908 d0c82e41793a483527b3c213694dcf9f43ac6116 moT01 <20648924+moT01@users.noreply.github.com> 1631246097 -0500	revert: Revert "feat: add unique reference"
+d0c82e41793a483527b3c213694dcf9f43ac6116 1e3a1786b845fef00b384d3ad34bf877940e0430 moT01 <20648924+moT01@users.noreply.github.com> 1631246473 -0500	rebase -i (start): checkout HEAD~2
+1e3a1786b845fef00b384d3ad34bf877940e0430 1e3a1786b845fef00b384d3ad34bf877940e0430 moT01 <20648924+moT01@users.noreply.github.com> 1631246473 -0500	rebase -i (finish): returning to refs/heads/feat/add-column-references
+1e3a1786b845fef00b384d3ad34bf877940e0430 7a8a8b9c839b18b802fd8ecc7337bf295855c7db c-mendcuellar <ca32002@gmail.com> 1775887674 -0400	rebase -i (start): checkout 7a8a8b9c839b18b802fd8ecc7337bf295855c7db
+7a8a8b9c839b18b802fd8ecc7337bf295855c7db a029be197bbd18f51b3ec6647391739d2928415e c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+a029be197bbd18f51b3ec6647391739d2928415e a5de9441f554604a1418a7ea46d836ea9ca09613 c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+a5de9441f554604a1418a7ea46d836ea9ca09613 684afe786ecb33e590f7dd03d9d53b6b7770684d c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+684afe786ecb33e590f7dd03d9d53b6b7770684d 18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 0ae0bd456114d57c6587643a47a9e3399d2ad88d c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+0ae0bd456114d57c6587643a47a9e3399d2ad88d d3609d2b8047c0d7da867b65072151d8eb69484e c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+d3609d2b8047c0d7da867b65072151d8eb69484e 88989a27ab2087f3aea1515c6f8ab4253f384a34 c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+88989a27ab2087f3aea1515c6f8ab4253f384a34 a72aceaad172418b6ac8f2e0db44c6e9bc45483e c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+a72aceaad172418b6ac8f2e0db44c6e9bc45483e 87db07c94a4273df4de2aa89b756d605f558fc05 c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+87db07c94a4273df4de2aa89b756d605f558fc05 4e3d7443ceec71283844ff69c4d22e38a72a8627 c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+4e3d7443ceec71283844ff69c4d22e38a72a8627 bee4c3e282aa35cc03e30be21b0d9386fe8110a1 c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+bee4c3e282aa35cc03e30be21b0d9386fe8110a1 2e8f5b438d445c8612189a3e0f1e58bf7716919c c-mendcuellar <ca32002@gmail.com> 1775887488 -0400	rebase -i: fast-forward
+2e8f5b438d445c8612189a3e0f1e58bf7716919c ca910badebd4fc1695a73ff169d2dd68c39371e8 c-mendcuellar <ca32002@gmail.com> 1775887674 -0400	rebase -i (reword): feat: add rename column references
+ca910badebd4fc1695a73ff169d2dd68c39371e8 b1d92a00c426ad8557676e7b88d8fd87adda845e c-mendcuellar <ca32002@gmail.com> 1775887735 -0400	rebase -i (pick): feat: add primary key reference
+b1d92a00c426ad8557676e7b88d8fd87adda845e 19b637775563822b41b0382ae6b76c8ba77419bf c-mendcuellar <ca32002@gmail.com> 1775887735 -0400	rebase -i (pick): feat: add foreign key reference
+19b637775563822b41b0382ae6b76c8ba77419bf 19b637775563822b41b0382ae6b76c8ba77419bf c-mendcuellar <ca32002@gmail.com> 1775887735 -0400	rebase -i (finish): returning to refs/heads/feat/add-column-references
+19b637775563822b41b0382ae6b76c8ba77419bf 05f1941c1d9fd17479bafedfe4c43cbab7da35b9 c-mendcuellar <ca32002@gmail.com> 1775887785 -0400	rebase -i (start): checkout 05f1941c1d9fd17479bafedfe4c43cbab7da35b9
+05f1941c1d9fd17479bafedfe4c43cbab7da35b9 a029be197bbd18f51b3ec6647391739d2928415e c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+a029be197bbd18f51b3ec6647391739d2928415e a5de9441f554604a1418a7ea46d836ea9ca09613 c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+a5de9441f554604a1418a7ea46d836ea9ca09613 684afe786ecb33e590f7dd03d9d53b6b7770684d c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+684afe786ecb33e590f7dd03d9d53b6b7770684d 18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+18f0344599cd58dd4b0d2c54baaa6fb4a6a35523 0ae0bd456114d57c6587643a47a9e3399d2ad88d c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+0ae0bd456114d57c6587643a47a9e3399d2ad88d d3609d2b8047c0d7da867b65072151d8eb69484e c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+d3609d2b8047c0d7da867b65072151d8eb69484e 88989a27ab2087f3aea1515c6f8ab4253f384a34 c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+88989a27ab2087f3aea1515c6f8ab4253f384a34 a72aceaad172418b6ac8f2e0db44c6e9bc45483e c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+a72aceaad172418b6ac8f2e0db44c6e9bc45483e 87db07c94a4273df4de2aa89b756d605f558fc05 c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+87db07c94a4273df4de2aa89b756d605f558fc05 4e3d7443ceec71283844ff69c4d22e38a72a8627 c-mendcuellar <ca32002@gmail.com> 1775887753 -0400	rebase -i: fast-forward
+4e3d7443ceec71283844ff69c4d22e38a72a8627 4d0a86f4143fee3789cff02173974368e4ad6dd1 c-mendcuellar <ca32002@gmail.com> 1775887785 -0400	rebase -i (reword): feat: add column references
+4d0a86f4143fee3789cff02173974368e4ad6dd1 af653ba529521d55925cfeaf8edb69ced6f98104 c-mendcuellar <ca32002@gmail.com> 1775887823 -0400	rebase -i (pick): feat: add drop column reference
+af653ba529521d55925cfeaf8edb69ced6f98104 e16870ebd33b3f6d9f89d03ce69bce21b514d813 c-mendcuellar <ca32002@gmail.com> 1775887823 -0400	rebase -i (pick): feat: add rename column references
+e16870ebd33b3f6d9f89d03ce69bce21b514d813 bdb51c45bfa55db5e2df8cc743c794bf84af6515 c-mendcuellar <ca32002@gmail.com> 1775887823 -0400	rebase -i (pick): feat: add primary key reference
+bdb51c45bfa55db5e2df8cc743c794bf84af6515 b212ce3c394bcbce0a780c966168591f9692f2c3 c-mendcuellar <ca32002@gmail.com> 1775887823 -0400	rebase -i (pick): feat: add foreign key reference
+b212ce3c394bcbce0a780c966168591f9692f2c3 b212ce3c394bcbce0a780c966168591f9692f2c3 c-mendcuellar <ca32002@gmail.com> 1775887823 -0400	rebase -i (finish): returning to refs/heads/feat/add-column-references
+b212ce3c394bcbce0a780c966168591f9692f2c3 4d0a86f4143fee3789cff02173974368e4ad6dd1 c-mendcuellar <ca32002@gmail.com> 1775927232 -0400	rebase -i (start): checkout HEAD~5
+4d0a86f4143fee3789cff02173974368e4ad6dd1 6909f3bf95a929c67fcf89da86c8ddb74243bb31 c-mendcuellar <ca32002@gmail.com> 1775927232 -0400	rebase -i (squash): # This is a combination of 2 commits.
+6909f3bf95a929c67fcf89da86c8ddb74243bb31 e2d5ce31f3416afe96d71515a64c14fc6e0f4221 c-mendcuellar <ca32002@gmail.com> 1775927232 -0400	rebase -i (squash): # This is a combination of 3 commits.
+e2d5ce31f3416afe96d71515a64c14fc6e0f4221 9855a99b775f030477a64c5723c30bbc1bf7aec6 c-mendcuellar <ca32002@gmail.com> 1775927232 -0400	rebase -i (squash): # This is a combination of 4 commits.
+9855a99b775f030477a64c5723c30bbc1bf7aec6 c50b31682b5b0a495289818b45a040c55b42e365 c-mendcuellar <ca32002@gmail.com> 1775927232 -0400	rebase -i (squash): feat: add column references
+c50b31682b5b0a495289818b45a040c55b42e365 c50b31682b5b0a495289818b45a040c55b42e365 c-mendcuellar <ca32002@gmail.com> 1775927232 -0400	rebase -i (finish): returning to refs/heads/feat/add-column-references
+c50b31682b5b0a495289818b45a040c55b42e365 87db07c94a4273df4de2aa89b756d605f558fc05 c-mendcuellar <ca32002@gmail.com> 1775927398 -0400	checkout: moving from feat/add-column-references to main
+87db07c94a4273df4de2aa89b756d605f558fc05 c50b31682b5b0a495289818b45a040c55b42e365 c-mendcuellar <ca32002@gmail.com> 1775927419 -0400	merge feat/add-column-references: Fast-forward
+c50b31682b5b0a495289818b45a040c55b42e365 a6b1eff098f810034029c762d6411a1ad52be14e c-mendcuellar <ca32002@gmail.com> 1775927456 -0400	checkout: moving from main to fix/add-missing-rename-references
+a6b1eff098f810034029c762d6411a1ad52be14e c50b31682b5b0a495289818b45a040c55b42e365 c-mendcuellar <ca32002@gmail.com> 1775927483 -0400	rebase: checkout main
+c50b31682b5b0a495289818b45a040c55b42e365 ef94be2470298db2069a7274fa70bf267d887dba c-mendcuellar <ca32002@gmail.com> 1775927483 -0400	rebase: fix: add missing rename database reference
+ef94be2470298db2069a7274fa70bf267d887dba ef94be2470298db2069a7274fa70bf267d887dba c-mendcuellar <ca32002@gmail.com> 1775927483 -0400	rebase finished: returning to refs/heads/fix/add-missing-rename-references
+ef94be2470298db2069a7274fa70bf267d887dba 5ab22fae207bd5b2f39bb77da15f731ffc5f12d4 c-mendcuellar <ca32002@gmail.com> 1775927684 -0400	commit: fix: add missing rename table reference
+5ab22fae207bd5b2f39bb77da15f731ffc5f12d4 ef94be2470298db2069a7274fa70bf267d887dba c-mendcuellar <ca32002@gmail.com> 1775927876 -0400	rebase -i (start): checkout HEAD~2
+ef94be2470298db2069a7274fa70bf267d887dba 9563e2d518d874a098a89223360831ac360028b1 c-mendcuellar <ca32002@gmail.com> 1775927876 -0400	rebase -i (squash): fix: add missing rename references
+9563e2d518d874a098a89223360831ac360028b1 9563e2d518d874a098a89223360831ac360028b1 c-mendcuellar <ca32002@gmail.com> 1775928006 -0400	rebase -i (finish): returning to refs/heads/fix/add-missing-rename-references
+9563e2d518d874a098a89223360831ac360028b1 c50b31682b5b0a495289818b45a040c55b42e365 c-mendcuellar <ca32002@gmail.com> 1775928055 -0400	checkout: moving from fix/add-missing-rename-references to main
+c50b31682b5b0a495289818b45a040c55b42e365 9563e2d518d874a098a89223360831ac360028b1 c-mendcuellar <ca32002@gmail.com> 1775928075 -0400	merge fix/add-missing-rename-references: Fast-forward
+9563e2d518d874a098a89223360831ac360028b1 9563e2d518d874a098a89223360831ac360028b1 c-mendcuellar <ca32002@gmail.com> 1775928286 -0400	checkout: moving from main to feat/add-gitignore
+9563e2d518d874a098a89223360831ac360028b1 143cdb7718165f8eb9659f676f37bf63f9439a6b c-mendcuellar <ca32002@gmail.com> 1775928483 -0400	commit: feat: add .gitignore
+143cdb7718165f8eb9659f676f37bf63f9439a6b 169b7da87fc8c4c7900bf7f31cf63536045d4a26 c-mendcuellar <ca32002@gmail.com> 1775928559 -0400	commit: feat: add sample.env
+169b7da87fc8c4c7900bf7f31cf63536045d4a26 143cdb7718165f8eb9659f676f37bf63f9439a6b c-mendcuellar <ca32002@gmail.com> 1775928624 -0400	rebase -i (start): checkout HEAD~2
+143cdb7718165f8eb9659f676f37bf63f9439a6b ea8db3446cb09c4340be52df7e2832f88d93c045 c-mendcuellar <ca32002@gmail.com> 1775928624 -0400	rebase -i (squash): feat: add .gitignore and sample.env
+ea8db3446cb09c4340be52df7e2832f88d93c045 ea8db3446cb09c4340be52df7e2832f88d93c045 c-mendcuellar <ca32002@gmail.com> 1775928648 -0400	rebase -i (finish): returning to refs/heads/feat/add-gitignore
+ea8db3446cb09c4340be52df7e2832f88d93c045 9563e2d518d874a098a89223360831ac360028b1 c-mendcuellar <ca32002@gmail.com> 1775928681 -0400	checkout: moving from feat/add-gitignore to main
+9563e2d518d874a098a89223360831ac360028b1 ea8db3446cb09c4340be52df7e2832f88d93c045 c-mendcuellar <ca32002@gmail.com> 1775928687 -0400	merge feat/add-gitignore: Fast-forward
