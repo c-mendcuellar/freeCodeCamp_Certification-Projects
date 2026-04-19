@@ -5,6 +5,7 @@ Here I back up all my files that are related to the completition of each Certifi
 ## Structure
 The structure is divided by Course and type of project.
 
+```bash
 ├── 📜 LICENSE
 ├── 📄 README.md
 └── 📂 Relational-Databases-V9
@@ -20,3 +21,4 @@ The structure is divided by Course and type of project.
         ├── 📂 workshop-sql-reference-object
         ├── 📂 workshop-sql-student-database-part-1
         └── 📂 workshop-sql-student-database-part-2
+```
