@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Checkout Page</title>
+    </head>
+
+    <body>
+        <h1>Checkout</h1>
+
+        <section>
+            <h2>Your Cart</h2>
+            <img src="https://i.pinimg.com/474x/06/62/ca/0662ca3dd758f7e4cbb4fed0b5b09555.jpg" alt="Schecter Guitar Research Synyster Gates Special Black, in front vertical position."/>
+        </section>
+
+        <section>
+            <h2>Payment Information</h2>
+            <form>
+                <label for="card-name">Cardholder Name <span aria-hidden="true">*</span></label>
+                <input required type="text" id="card-name" name="card-name" /><br/>
+
+                <label for="card-number">Card Number <span aria-hidden="true">*</span></label>
+                <input required type="text" id="card-number" name="card-number" aria-describedby="card-number-help" />
+                <p id="card-number-help">Please enter your 16-digit card number without spaces or dashes.</p>
+
+                <label for="card-expiry-date">Expiry Date <span aria-hidden="true">*</span></label>
+                <input required type="text" id="card-expiry-date" name="card-expiry-date" placeholder="MM/YY" /><br/>
+                
+                <label for="card-cvv">CVV <span aria-hidden="true">*</span></label>
+                <input required type="text" id="card-cvv" name="card-cvv" aria-describedby="card-cvv-help" /><br/>
+                <p id="card-cvv-help">Please enter the 3-digit CVV code for your card.</p>
+
+                <input type="submit" id="submit" name="submit" value="Submit" />
+
+            </form>
+        </section>
+    </body>
+</html>

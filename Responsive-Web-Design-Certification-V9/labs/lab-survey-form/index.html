@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">El Cajas National Park Survey Form</h1>
+    <p id="description">
+      Thank you for taking the time to help us improve our service for the community of Cuenca and tourists.
+    </p>
+    
+    <form id="survey-form">
+      <label for="name" id="name-label">Name</label>
+      <input required type="text" id="name" placeholder="e.g., Carlos"><br>
+
+      <label for="email" id="email-label">Email</label>
+      <input required type="email" id="email" placeholder="name@email.com"><br>
+
+      <label for="number" id="number-label">Age (optional)</label>
+      <input required type="number" id="number" min="15" max="70" placeholder="18">
+
+      <p>Do you live in Cuenca, or are you visiting as a tourist?</p>
+      <select id="dropdown">
+        <option>Citizen</option>
+        <option>Tourist</option>
+      </select>
+
+      <p>Would you recommend visiting El Cajas National Park in general?</p>
+      <label for="definitly-option">Definitly</label>
+      <input type="radio" id="definitly-option" name="recommendation" value="definitly">
+      
+      <label for="very-likely-option">Very Likely</label>
+      <input type="radio" id="very-likely-option" name="recommendation" value="very-likely">
+
+      <label for="maybe-option">Maybe</label>
+      <input type="radio" id="maybe-option" name="recommendation" value="maybe">
+
+      <label for="doubtful-option">Doubtful</label>
+      <input type="radio" id="doubtful-option" name="recommendation" value="doubtful">
+
+      <label for="not-sure-option">Not Sure</label>
+      <input type="radio" id="not-sure-option" name="recommendation" value="not sure">
+
+      <p>What feautures would you like to be improved in El Cajas National Park?</p>
+      <label for="visitor-services">Visitor Services</label>
+      <input type="checkbox" id="visitor-services" name="visitor-services" value="visitor-services">
+
+      <label for="trails">Trails</label>
+      <input type="checkbox" id="trails" name="trails" value="trails">
+
+      <label for="signage">Signage</label>
+      <input type="checkbox" id="signage" name="signage" value="signage">
+
+      <label for="permits">Permits</label>
+      <input type="checkbox" id="permits" name="permits" value="permits">
+
+      <label for="Schedule">Schedule</label>
+      <input type="checkbox" id="schedule" name="schedule" value="schedule">
+
+      <p>Any comments or suggestions?</p>
+      <textarea name="comments-and-suggestions" rows="5" cols="50" placeholder="Your comments here..."></textarea>
+
+      <input type="submit" id="submit" value="Submit">
+
+    </form>
+  </body>
+</html>

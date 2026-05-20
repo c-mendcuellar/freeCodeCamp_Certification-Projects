@@ -1,0 +1,50 @@
+html {
+  background-color: #AEBBC2;
+}
+
+body {
+  padding: 50px 10px;
+  margin: 0 auto;
+  width: 90vw;
+  min-height: calc(100vh - 100px);
+  font-family: sans-serif;
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+}
+
+hr {
+  background-color: black;
+  height: 2px;
+  margin: 40px auto;
+  width: 80%;
+}
+
+main {
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+section {
+  width: 30%;
+  padding: 50px 5px;
+  min-height: 100px;
+  vertical-align: top;
+  display: inline-block;
+  background-color: #A5CEE4;
+  border-radius: 10px;
+}
+
+ul {
+  text-align: left;
+  list-style: inside;
+  padding-left: 10px;
+}
+
+footer {
+  font-size: 0.7em;
+}

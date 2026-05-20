@@ -1,0 +1,51 @@
+body{
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.color-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+  width: 100%;
+  max-width: 800px;
+}
+
+.color-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+}
+
+.color1 {
+  background-color: #7F2BFF;
+}
+
+.color2 {
+  background-color: rgb(127, 200, 52);
+}
+
+.color3 {
+  background-color: navy;
+}
+
+.color4 {
+  background-color: hsl(25, 100%, 50%);
+}
+
+.color5 {
+  background-color: orange;
+}
